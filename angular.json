@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Routing-Examenn"
+  "defaultProject": "Routing-Examenn",
+  "cli": {
+    "analytics": "8054d663-3002-42c1-a23d-329132c1485f"
+  }
 }
